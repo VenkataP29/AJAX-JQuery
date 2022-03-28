@@ -1,0 +1,38 @@
+[
+	{
+		"url" : "http://getbootstrap.com/",
+		"numberOfStars" : "88.260",
+		"currentVersion" : "3.3.3",
+		"name" : "Bootstrap"
+	},
+	{
+		"url" : "http://getbootstrap.com/",
+		"numberOfStars" : "21.180+",
+		"currentVersion" : "5.5.3",
+		"name" : "Foundation"
+	},
+	{
+		"url" : "http://getbootstrap.com/",
+		"numberOfStars" : "34.21+",
+		"currentVersion" : "1.2.5",
+		"name" : "UIKit"
+	},
+	{
+		"url" : "http://getbootstrap.com/",
+		"numberOfStars" : "88.260",
+		"currentVersion" : "3.3.3",
+		"name" : "Sementic"
+	},
+	{
+		"url" : "http://getbootstrap.com/",
+		"numberOfStars" : "88.260",
+		"currentVersion" : "3.3.3",
+		"name" : "Skeleton"
+	},
+	{
+		"url" : "http://getbootstrap.com/",
+		"numberOfStars" : "88.260",
+		"currentVersion" : "3.3.3",
+		"name" : "Material Design"
+	},
+]

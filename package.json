@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  },
+  "name": "jquery-ajax",
+  "version": "1.0.0",
+  "description": "JQUery's AJAX function",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o css/ --recursive"
+  },
+  "author": "",
+  "license": "ISC"
+}
